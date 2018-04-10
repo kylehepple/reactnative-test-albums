@@ -1,0 +1,9 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "eol-last": 0,
+        "eqeqeq": 0,
+        "padded-blocks": 0,
+        "react/sort-comp": 0
+    }
+}
